@@ -8,7 +8,9 @@ This project is a calculator, developed using React.
 - VScode
 
 ## Screen-shots:
-<img src="assets/img/calc.png">
+<img src="assets/img/ss1.png">
+<img src="assets/img/ss2.png">
+<img src="assets/img/ss3.png">
 
 ## Live-Demo
 
