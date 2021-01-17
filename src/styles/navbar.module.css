@@ -9,7 +9,7 @@
 
 .brand-logo {
   font-size: 3rem;
-  color: #000;
+  color: rgb(245, 237, 237);
   font-weight: 700;
 }
 
@@ -18,26 +18,20 @@
 }
 
 .navbar-nav > a {
-  color: blue;
+  color: rgb(245, 245, 253);
   text-align: center;
-  font-size: 1.6rem;
+  font-size: 20px;
   padding-bottom: 14px;
   padding-left: 16px;
   padding-top: 14px;
   text-decoration: underline;
 }
 
-.navbar-nav > a:not(:last-child) {
-  border-right: 0.1em solid #000;
+.navbar-nav > a:not(:last-child) { 
   padding-right: 16px;
 }
 
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  color: rgb(243, 149, 149);
 }
 
-.topnav a.active {
-  background-color: #4caf50;
-  color: white;
-}
