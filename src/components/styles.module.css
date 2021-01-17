@@ -1,0 +1,65 @@
+.app,
+.display,
+.button_panel {
+  width: 700px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.app {
+  margin-top: 30px;
+}
+
+.display {
+  font-family: digital, 'Segoe UI', sans-serif;
+  background-color: rgb(46, 99, 66);
+  height: 100px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 60px;
+  position: relative;
+}
+
+.displaySubtitle {
+  position: absolute;
+  font-weight: 100;
+  font-size: 18px;
+  padding: 0;
+  margin: 0;
+  bottom: 0;
+  right: 10px;
+}
+
+.button_panel {
+  align-items: stretch;
+}
+
+.button_panel_row,
+.button {
+  height: 100px;
+}
+
+.button {
+  background-color: rgb(204, 59, 59);
+  color: rgb(15, 15, 15);
+  width: 25%;
+  font-weight: bold;
+  border: 1px solid rgba(174, 187, 178, 0.5);
+}
+
+.button_double {
+  width: 50%;
+}
+
+.button_gray {
+  background-color: rgb(170, 165, 165);
+}
+
+.button:focus {
+  transition: all 0.15s ease-in;
+  animation: button-click 0.15s ease-in;
+  outline: none;
+}
