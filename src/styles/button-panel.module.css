@@ -1,0 +1,17 @@
+.button-panel {
+  display: flex;
+  flex-direction: column;
+}
+
+.button-group {
+  display: flex;
+  height: 100px;
+}
+
+.button-group > * {
+  flex-grow: 1;
+  font-size: 1.6rem;
+  font-weight: bolder;
+  border: 0.1em solid lightgray;
+  border-radius: 0;
+}

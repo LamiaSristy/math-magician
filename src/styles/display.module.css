@@ -1,0 +1,12 @@
+.display {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: gray;
+  color: #fff;
+  height: 100px;
+  font-size: 1.7rem;
+  font-weight: bold;
+  padding: 0.2em;
+  text-align: right;
+}

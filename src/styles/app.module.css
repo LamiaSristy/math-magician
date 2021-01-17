@@ -1,0 +1,8 @@
+.app {
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading {
+  font-size: 2rem;
+}
