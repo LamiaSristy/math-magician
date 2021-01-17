@@ -1,0 +1,16 @@
+.quote-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  font-size: 2rem;
+  color: bisque;
+}
+
+.quote {
+  height: 40px;
+}
+
+.quoteauthor {
+  height: 20px !important;
+}

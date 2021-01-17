@@ -1,0 +1,36 @@
+.topnav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0.7em 0 1em;
+  padding-bottom: 1em;
+  padding-top: 1em;
+}
+
+.brand-logo {
+  font-size: 3rem;
+  color: rgb(245, 237, 237);
+  font-weight: 700;
+}
+
+.topnav a {
+  text-decoration: none;
+}
+
+.navbar-nav > a {
+  color: rgb(245, 245, 253);
+  text-align: center;
+  font-size: 20px;
+  padding-bottom: 14px;
+  padding-left: 16px;
+  padding-top: 14px;
+  text-decoration: underline;
+}
+
+.navbar-nav > a:not(:last-child) {
+  padding-right: 16px;
+}
+
+.topnav a:hover {
+  color: rgb(243, 149, 149);
+}
