@@ -38,7 +38,11 @@ To get this project up and running locally, "npm install" is needed to be run in
 4. Into the Terminal: run `cd math-magician`.
 5. Into the Terminal: run `npm install`.
 6. Into the Terminal: run `npm start`.
-6. To see the website in the browser, open browser and load `localhost:3000`.
+7. To see the website in the browser, open browser and load `localhost:3000`.
+
+**To run the test suits:**
+1. Into the Terminal: run `npm test`.
+2. Press `a` to run all tests.
 
 
 ## `Author Details::`
