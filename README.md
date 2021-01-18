@@ -1,6 +1,13 @@
 # Math-Magician
 
-This project is a calculator, developed using React.
+This project is a demo website for Math Magician, developed using React. Here I have practiced the basics of React, like,
+- Props and States,
+- component,
+- Life-cycle methods, 
+- Hooks,
+- Routers,
+- Styling the React app,
+- Testing React components.
 
 ## `Build-With`
 
@@ -16,17 +23,17 @@ This project is a calculator, developed using React.
 
 ### `Prerequisites`
 
-To get this project up and running locally, "yarn install" is needed to be run in order to include all dependencies used for this project.
+To get this project up and running locally, "npm install" is needed to be run in order to include all dependencies used for this project.
 
 **To get this project set up on your local machine, follow these simple steps:**
 
 1. Open Terminal.
 2. Navigate to your desired location to download the contents of this repository.
-3. Copy and paste the following code into the Terminal: git clone https://github.com/LamiaSristy/math-magician
-4. cd into  math-magician
-5. Run "npm install".
-6. Run "npm start".
-6. Open, in your browser, 'localhost:3000'.
+3. Copy and paste the following code into the Terminal: git clone `https://github.com/LamiaSristy/math-magician`.
+4. Into the Terminal: run `cd math-magician`.
+5. Into the Terminal: run `npm install`.
+6. Into the Terminal: run `npm start`.
+6. To see the website in the browser, open browser and load `localhost:3000`.
 
 
 ## Author Details::
