@@ -5,7 +5,7 @@ import Display from './Display';
 import ButtonPanel from './ButtonPanel';
 import calculate from '../logic/calculate';
 import buttons from '../state/state';
-import styles from './styles.module.css';
+import styles from '../styles/calc.module.css';
 
 const App = () => {
   const [total, setTotal] = useState(null);
