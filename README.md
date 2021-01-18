@@ -9,12 +9,17 @@ This project is a demo website for Math Magician, developed using React. Here I 
 - Styling the React app,
 - Testing React components.
 
-## `Build-With`
+
+## `Build-With:`
 
 - React
 - VScode
 
-## Screen-shots:
+## `Live Demo:`
+
+[math_magician](https://mathmagician.herokuapp.com/)
+
+## `Screen-shots:`
 <img src="assets/img/ss1.png">
 <img src="assets/img/ss2.png">
 <img src="assets/img/ss3.png">
@@ -36,7 +41,7 @@ To get this project up and running locally, "npm install" is needed to be run in
 6. To see the website in the browser, open browser and load `localhost:3000`.
 
 
-## Author Details::
+## `Author Details::`
 
 👤 **Lamia Sristy**
 
@@ -46,10 +51,10 @@ To get this project up and running locally, "npm install" is needed to be run in
 - Twitter: [@LamiaSristy](https://twitter.com/lsristy1)
 
 
-## Show your support
+## `Show your support:`
 
 Give ⭐ Star me on GitHub — it helps!
 
-## 📝 License
+## 📝 `License`
 
 This project is [MIT](lic.url) licensed.
