@@ -15,6 +15,7 @@ This project is a demo website for Math Magician, developed using React. Here I 
 - VScode
 
 ## `Live Demo:`
+[math_magician](https://mathmagician.herokuapp.com/)
 
 ## `Screen-shots:`
 <img src="assets/img/ss1.png">
