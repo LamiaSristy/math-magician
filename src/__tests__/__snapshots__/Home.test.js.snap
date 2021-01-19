@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Component renders the title text of the Home page 1`] = `
+<h2
+  class="heading"
+>
+  What is math!
+</h2>
+`;
