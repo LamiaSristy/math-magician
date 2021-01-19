@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Quotes renders the quotes component correctly 1`] = `
+<div
+  className="quote-container"
+>
+  <p
+    className="quote"
+  >
+    Mathematics is the queen of science, and arithmetic the queen of mathematics.
+    <small>
+        –Carl Friedrich Gauss.
+    </small>
+  </p>
+</div>
+`;

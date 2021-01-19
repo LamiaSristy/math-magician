@@ -24,7 +24,9 @@ const operate = (numberOne, numberTwo, operation) => {
   } catch (error) {
     result = NaN;
   }
-  return result.toPrecision().toString();
+  // return result.toString();
+  result += '';
+  return result;
 };
 
 export default operate;
