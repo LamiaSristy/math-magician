@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/user-event": "^12.1.10",
     "big.js": "^6.0.3",
+    "chai-deep-match": "^1.2.1",
     "bootstrap": "^4.5.3",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
@@ -42,9 +44,9 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "babel-eslint": "^10.1.0",
+    "chai": "^4.2.0",
     "eslint": "^7.11.0",
     "eslint-config-airbnb": "^18.1.0",
     "eslint-plugin-import": "^2.22.1",
