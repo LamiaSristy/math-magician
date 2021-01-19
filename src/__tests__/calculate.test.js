@@ -2,25 +2,25 @@ import calculate from '../logic/calculate';
 
 describe('Test cases for calculate.js Module', () => {
   test('test for the `AC` button', () => {
-    const result = calculate({ total: '5', next: '', operation: '' }, 'AC');    
-    expect(result).toBeUndefined;
+    const result = calculate({ total: '5', next: '', operation: '' }, 'AC');
+    expect(result).toBeUndefined();
   });
-  
+
   test('Add two numbers after pressing the equal sign', () => {
     const result = calculate({ total: '2', next: '2', operation: '+' }, '=');
-    const { total } = result; 
+    const { total } = result;
     expect(total).toEqual('4');
   });
 
   test('Subtract number2 from number 1 after pressing the equal sign', () => {
     const result = calculate({ total: '4', next: '2', operation: '-' }, '=');
-    const { total } = result; 
+    const { total } = result;
     expect(total).toEqual('2');
   });
 
   test('Divide two numbers after pressing the equal sign', () => {
     const result = calculate({ total: '4', next: '2', operation: '÷' }, '=');
-    const { total } = result; 
+    const { total } = result;
     expect(total).toEqual('2');
   });
 
@@ -47,5 +47,4 @@ describe('Test cases for calculate.js Module', () => {
     const { total } = result;
     expect(total).toEqual('5.');
   });
-   
 });

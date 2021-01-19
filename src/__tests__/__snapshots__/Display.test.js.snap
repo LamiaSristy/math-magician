@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Display Render the display component  correctly 1`] = `
+<div
+  className="display"
+>
+  <p
+    className="mb-0 text-right w-100"
+  >
+    0
+  </p>
+  <span
+    className="displaySubtitle"
+  >
+     
+  </span>
+</div>
+`;
